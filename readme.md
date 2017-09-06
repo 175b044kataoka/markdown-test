@@ -141,4 +141,4 @@ void main() {
 - いらすとやで適当な画像を２回ほどクリックして、画像だけ表示されるようにする
 - 画像を右クリックして、[名前をつけて画像を保存]を選択して、デスクトップに保存
 
-![パンケーキリクガメ](./turtle_pancake_rikugame.png)
+![ショゴス](./character_cthulhu_shoggoth.png)
